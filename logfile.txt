@@ -1,0 +1,7 @@
+2023-Apr-06-003054,Extract phase Started
+2023-Apr-06-003110,Extract phase Ended
+2023-Apr-06-003123,Transform Phase Started
+2023-Apr-06-003146,Transform phase Ended
+2023-Apr-06-003157,Load phase Started
+2023-Apr-06-003219,Load phase Ended
+2023-Apr-06-003312,Load phase Ended
